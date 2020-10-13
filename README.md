@@ -1,4 +1,4 @@
-# wanba
+# discover
 
 ## Project setup
 ```
